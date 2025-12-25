@@ -1,0 +1,40 @@
+{
+  "container": {
+    "width": 220,
+    "height": 400
+  },
+  "model": [
+    {
+      "message": "黑猫 Hijiki 报到！",
+      "path": "https://cdn.jsdelivr.net/gh/xiazeyu/live2d-widget-models@master/assets/hijiki/hijiki.model.json"
+    },
+    {
+      "message": "银发 Epsilon 在线～",
+      "path": "https://cdn.jsdelivr.net/gh/xiazeyu/live2d-widget-models@master/assets/epsilon2_1/epsilon2_1.model.json"
+    },
+    {
+      "message": "我是 Shizuku，像水滴一样纯净 💧",
+      "path": "https://cdn.jsdelivr.net/gh/xiazeyu/live2d-widget-models@master/assets/shizuku/shizuku.model.json"
+    },
+    {
+      "message": "春日 Haru v1，你好呀！",
+      "path": "https://cdn.jsdelivr.net/gh/xiazeyu/live2d-widget-models@master/assets/haru/01/haru.model.json"
+    },
+    {
+      "message": "春日 Haru v2，换新衣服啦！",
+      "path": "https://cdn.jsdelivr.net/gh/xiazeyu/live2d-widget-models@master/assets/haru/02/haru.model.json"
+    },
+    {
+      "message": "Tororo 来咯～喵！",
+      "path": "https://cdn.jsdelivr.net/gh/xiazeyu/live2d-widget-models@master/assets/tororo/tororo.model.json"
+    },
+    {
+      "message": "响 Hibiki，出击！⚓",
+      "path": "https://cdn.jsdelivr.net/gh/xiazeyu/live2d-widget-models@master/assets/hibiki/hibiki.model.json"
+    },
+    {
+      "message": "Koharu 光，与你同行✨",
+      "path": "https://cdn.jsdelivr.net/gh/xiazeyu/live2d-widget-models@master/assets/koharu/koharu.model.json"
+    }
+  ]
+}
