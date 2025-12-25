@@ -54,7 +54,7 @@ function loadExternalResource(url, type) {
   initWidget({
     // 角色配置文件路径（JSON）
     // 👉【可改】换角色：替换 waifu-tips.json 为其他配置
-    waifuPath: live2d_path + 'waifu-tips.json',
+    waifuPath: 'https://fastly.jsdelivr.net/gh/kinn-patsu/My-live2D@main/my-models.json',
 
     // Live2D Cubism 2 引擎路径（一般不用改）
     cubism2Path: live2d_path + 'live2d.min.js',
@@ -101,3 +101,4 @@ console.log(`\n%cLive2D%cWidget%c\n`, 'padding: 8px; background: #cd3e45; font-w
                 ﾄ-,/  |___./
                 'ｰ'    !_,.:
 */
+
